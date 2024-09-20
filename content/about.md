@@ -14,7 +14,7 @@ Hi, this is Jixuan Xu. I’m documenting my learning notes in this blog. I'm cur
 
 ## Research Interests
 ***
-My research interests include deep learning and its applications on image & video generation, LLMs, Multimodal Models and virtual human creations. 
+My research interests include deep learning and its applications on image & video generation, LLMs, multimodal models and virtual human creations. 
 
 <br>
 
