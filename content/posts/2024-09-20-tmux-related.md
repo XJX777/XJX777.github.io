@@ -1,3 +1,11 @@
++++
+title = 'Tmux 配置及使用'
+date = 2024-09-20T10:56:31+08:00
+categories = ["personal website"]
+tags = ["tmux"] 
++++
+
+
 # tmux 配置使用
 
 ## 1、What's tmux
