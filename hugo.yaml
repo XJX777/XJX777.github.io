@@ -72,7 +72,7 @@ paginate: 8 # 每页展示的文章数量，这个没找到文档，应该是主
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Sonny Calcr
+  author: Jixuan Xu
   defaultTheme: dark # 默认是暗色背景
   ShowShareButtons: false # 关闭分享的按钮
   ShowReadingTime: true # 展示预估的阅读时长
@@ -91,7 +91,8 @@ params:
   homeInfoParams:
     Title: "👋 Welcome to XJX’Log"
     Content: >
-      Hi, this is Jixuan Xu. I’m documenting my learning notes in this blog. Besides, I’m currently working on AIGC and digital human technologies at Bilibili 😉. Since the blog is hosted on Github, using a 'ladder' might make the access smoother.
+      Hi, this is Jixuan Xu. I’m documenting my learning notes in this blog. Besides, I’m currently working on AIGC and digital human technologies at Bilibili 😉.  
+      Since the blog is hosted on Github, using a 'ladder' might make the access smoother.
 
   # 社交帐号的按钮
   socialIcons:
