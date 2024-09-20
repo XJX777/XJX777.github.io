@@ -12,7 +12,7 @@ Hi, this is Jixuan Xu. I’m documenting my learning notes in this blog. I'm cur
 
 <br>
 
-## Research Interests
+### Research Interests
 ***
 My research interests include deep learning and its applications on image & video generation, LLMs, multimodal models and virtual human creations. 
 
