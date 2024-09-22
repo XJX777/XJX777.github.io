@@ -1,6 +1,6 @@
 +++
 title = 'Hugo + PaperMod + Github Pages 搭建一个完善的个人博客'
-date = 2024-09-14T10:56:31+08:00
+date = 2024-07-19T10:56:31+08:00
 categories = ["personal website"]
 tags = ["personal website"] 
 +++
