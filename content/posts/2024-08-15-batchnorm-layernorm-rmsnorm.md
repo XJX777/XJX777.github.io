@@ -2,7 +2,7 @@
 title = 'Batch Norm, Layer Norm, RMS Norm的区别'
 date = 2024-08-15T10:56:31+08:00
 categories = ["Deep Learning"]
-tags = ["Normalization, Batch Norm, Layer Norm, RMS Norm"] 
+tags = ["Normalization", "Batch Norm", "Layer Norm", "RMS Norm"] 
 +++
 
 
