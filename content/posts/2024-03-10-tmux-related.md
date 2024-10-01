@@ -2,7 +2,7 @@
 title = 'Tmux 配置及使用'
 date = 2024-03-10T10:56:31+08:00
 categories = ["personal website"]
-tags = ["tmux"] 
+tags = ["Tmux"] 
 +++
 
 
