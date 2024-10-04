@@ -1,6 +1,6 @@
 +++
 title = 'Batch Norm, Layer Norm, RMS Norm'
-date = 2024-08-15T10:56:31+08:00
+date = 2024-01-15T10:56:31+08:00
 categories = ["Deep Learning"]
 tags = ["Normalization", "Batch Norm", "Layer Norm", "RMS Norm"] 
 +++

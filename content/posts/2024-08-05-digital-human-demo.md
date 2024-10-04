@@ -1,6 +1,6 @@
 +++
 title = '数字分身 - 语音驱动人脸视频生成'
-date = 2024-09-05T10:56:31+08:00
+date = 2024-08-05T10:56:31+08:00
 categories = ["digital human"]
 tags = ["Digital human"] 
 +++

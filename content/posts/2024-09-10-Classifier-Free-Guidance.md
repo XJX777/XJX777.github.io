@@ -1,6 +1,6 @@
 +++
 title = 'Classifier Guidance 和 Classifier-Free Guidance 的理解与代码实现'
-date = 2024-09-09T10:56:31+08:00
+date = 2024-09-10T10:56:31+08:00
 categories = ["AIGC", "Diffusion model"]
 tags = ["Classifier Guidance", "Classifier-Free Guidance", "CFG"] 
 +++
