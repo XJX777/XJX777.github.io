@@ -20,15 +20,16 @@ Batch Norma 的处理对象是对一批样本，对batch size这一维度做redu
 计算公式为：
 均值：
 $$
-\mu_L = \frac{1}{d} \sum_{i=1}^{d} x_i 
+\mu_B = \frac{1}{m} \sum_{i=1}^{m} x_i 
 $$
+其中，m 是当前 batch 中样本的数量，$\mu_B$ 是输入的均值。
 方差：
 $$
-\sigma^2_L = \frac{1}{d} \sum_{i=1}^{d} (x_i - \mu_L)^2 
+\sigma^2_B = \frac{1}{m} \sum_{i=1}^{m} (x_i - \mu_B)^2 
 $$
 归一化：
 $$
-\hat{x}_i = \frac{x_i - \mu_L}{\sqrt{\sigma^2_L + \epsilon}} 
+\hat{x}_i = \frac{x_i - \mu_B}{\sqrt{\sigma^2_B + \epsilon}} 
 $$
 缩放平移：
 $$
