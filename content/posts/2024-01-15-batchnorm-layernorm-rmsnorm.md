@@ -23,6 +23,7 @@ $$
 \mu_B = \frac{1}{m} \sum_{i=1}^{m} x_i 
 $$
 其中，m 是当前 batch 中样本的数量，$\mu_B$ 是输入的均值。
+
 方差：
 $$
 \sigma^2_B = \frac{1}{m} \sum_{i=1}^{m} (x_i - \mu_B)^2 
