@@ -34,9 +34,9 @@ WAIC2024 one-shot数字人快速合成效果展示：
 
 面向专业用户的精品数字人定制能力，目前已完成 700+精品数字人定制，总视频合成时长达 **3000min+**。
 
-[**影视区UP主精品数字人效果视频**](https://www.bilibili.com/video/BV1AC4y167ap/?spm_id_from=333.999.0.0&vd_source=b96a1e1be2cdcd98fe5debeabbf470ea)
+[**影视区UP主精品数字人效果视频 (请点击)**](https://www.bilibili.com/video/BV1AC4y167ap/?spm_id_from=333.999.0.0&vd_source=b96a1e1be2cdcd98fe5debeabbf470ea)
 <img src="https://i.postimg.cc/Z5FP6MR5/image.png" alt="WAIC2024 one-shot数字人快速合成效果展示" style="width: 450px; height: auto;">
 
-[**知识区UP主精品数字人效果视频**](https://www.bilibili.com/video/BV1Gb4y1u7sV/?spm_id_from=333.999.0.0&vd_source=b96a1e1be2cdcd98fe5debeabbf470ea)
+[**知识区UP主精品数字人效果视频 (请点击)**](https://www.bilibili.com/video/BV1Gb4y1u7sV/?spm_id_from=333.999.0.0&vd_source=b96a1e1be2cdcd98fe5debeabbf470ea)
 <img src="https://i.postimg.cc/rpV1jN0C/image.png" alt="WAIC2024 one-shot数字人快速合成效果展示" style="width: 450px; height: auto;">
 
